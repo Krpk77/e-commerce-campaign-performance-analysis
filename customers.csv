@@ -1,0 +1,101 @@
+customer_id,first_name,last_name,gender,age,city,state,signup_date,customer_segment,acquisition_channel
+1,Priya,Verma,Male,31,Pune,India,2025-01-15,VIP,Instagram
+2,Karan,Sharma,Female,26,Delhi,India,2024-05-10,New,Google Ads
+3,Pooja,Singh,Female,37,Bangalore,India,2024-03-20,VIP,Facebook
+4,Divya,Nair,Male,22,Pune,India,2024-12-06,New,Facebook
+5,Ankit,Jain,Female,28,Pune,India,2024-07-30,Returning,Referral
+6,Pooja,Patel,Male,52,Delhi,India,2025-01-26,New,Google Ads
+7,Ankit,Das,Male,32,Bangalore,India,2024-02-26,Returning,Organic
+8,Pooja,Sharma,Male,35,Pune,India,2024-07-15,VIP,Facebook
+9,Rahul,Kumar,Male,21,Hyderabad,India,2024-04-15,Returning,Referral
+10,Divya,Gupta,Female,37,Mumbai,India,2025-04-05,Returning,Google Ads
+11,Priya,Gupta,Female,25,Delhi,India,2024-01-02,New,Google Ads
+12,Neha,Verma,Male,34,Bangalore,India,2024-12-01,Returning,Organic
+13,Amit,Patel,Female,21,Hyderabad,India,2025-01-19,VIP,Organic
+14,Neha,Reddy,Female,24,Pune,India,2024-08-31,New,Google Ads
+15,Neha,Reddy,Female,40,Pune,India,2024-01-26,VIP,Facebook
+16,Sneha,Singh,Male,34,Pune,India,2024-04-07,VIP,Referral
+17,Pooja,Patel,Female,42,Pune,India,2024-11-09,New,Google Ads
+18,Pooja,Kumar,Female,56,Delhi,India,2024-07-19,Returning,Facebook
+19,Rohit,Sharma,Male,50,Hyderabad,India,2024-12-15,New,Google Ads
+20,Pooja,Nair,Male,33,Hyderabad,India,2025-01-03,New,Instagram
+21,Ankit,Singh,Female,46,Pune,India,2025-04-10,Returning,Referral
+22,Priya,Sharma,Female,60,Pune,India,2024-12-04,New,Organic
+23,Neha,Patel,Female,43,Hyderabad,India,2025-02-08,New,Google Ads
+24,Karan,Jain,Female,42,Delhi,India,2024-11-10,Returning,Referral
+25,Pooja,Gupta,Female,46,Delhi,India,2024-04-03,VIP,Instagram
+26,Pooja,Jain,Female,35,Pune,India,2024-03-23,VIP,Organic
+27,Rahul,Verma,Male,51,Delhi,India,2024-02-16,Returning,Facebook
+28,Ankit,Das,Male,38,Hyderabad,India,2024-09-29,Returning,Instagram
+29,Ankit,Reddy,Male,52,Bangalore,India,2024-09-16,Returning,Instagram
+30,Rahul,Gupta,Female,40,Hyderabad,India,2024-03-08,Returning,Referral
+31,Rahul,Jain,Female,20,Mumbai,India,2024-01-28,New,Referral
+32,Karan,Nair,Female,58,Mumbai,India,2024-11-14,Returning,Facebook
+33,Rohit,Nair,Female,24,Pune,India,2024-12-17,VIP,Referral
+34,Priya,Verma,Female,40,Bangalore,India,2025-01-28,Returning,Instagram
+35,Priya,Kumar,Female,31,Delhi,India,2024-06-13,New,Referral
+36,Karan,Das,Male,20,Pune,India,2025-01-09,Returning,Google Ads
+37,Priya,Patel,Female,48,Delhi,India,2024-02-01,VIP,Google Ads
+38,Neha,Gupta,Female,23,Hyderabad,India,2024-07-16,New,Facebook
+39,Priya,Reddy,Female,60,Mumbai,India,2024-05-26,VIP,Referral
+40,Sneha,Singh,Female,22,Delhi,India,2024-04-04,Returning,Organic
+41,Rohit,Reddy,Female,25,Bangalore,India,2024-12-17,Returning,Instagram
+42,Sneha,Singh,Male,45,Mumbai,India,2024-02-20,Returning,Referral
+43,Amit,Singh,Male,58,Bangalore,India,2025-04-08,VIP,Facebook
+44,Priya,Sharma,Male,28,Pune,India,2025-01-22,VIP,Referral
+45,Pooja,Kumar,Female,42,Mumbai,India,2024-11-14,Returning,Google Ads
+46,Amit,Reddy,Female,49,Hyderabad,India,2024-03-13,New,Google Ads
+47,Pooja,Das,Female,36,Mumbai,India,2025-04-05,VIP,Google Ads
+48,Sneha,Patel,Male,48,Bangalore,India,2024-09-05,New,Facebook
+49,Neha,Sharma,Female,59,Pune,India,2024-02-04,New,Organic
+50,Ankit,Verma,Female,37,Hyderabad,India,2024-07-16,VIP,Google Ads
+51,Karan,Verma,Male,18,Pune,India,2024-01-03,New,Instagram
+52,Divya,Singh,Male,26,Hyderabad,India,2024-01-28,New,Google Ads
+53,Pooja,Singh,Male,57,Mumbai,India,2024-02-15,Returning,Facebook
+54,Pooja,Gupta,Female,49,Mumbai,India,2025-04-13,Returning,Instagram
+55,Ankit,Reddy,Male,59,Delhi,India,2025-01-16,New,Google Ads
+56,Divya,Verma,Female,50,Delhi,India,2025-05-02,Returning,Organic
+57,Ankit,Singh,Male,52,Delhi,India,2024-09-19,Returning,Facebook
+58,Priya,Singh,Female,19,Hyderabad,India,2024-01-27,VIP,Instagram
+59,Rohit,Reddy,Male,44,Hyderabad,India,2024-02-11,VIP,Organic
+60,Priya,Kumar,Male,44,Delhi,India,2025-01-03,Returning,Facebook
+61,Sneha,Verma,Female,49,Pune,India,2024-11-13,Returning,Facebook
+62,Pooja,Verma,Male,22,Bangalore,India,2024-03-18,VIP,Organic
+63,Pooja,Das,Female,19,Pune,India,2024-07-15,Returning,Instagram
+64,Ankit,Das,Female,51,Mumbai,India,2024-01-04,VIP,Referral
+65,Karan,Patel,Male,20,Mumbai,India,2025-02-03,VIP,Referral
+66,Neha,Reddy,Female,19,Bangalore,India,2025-02-14,VIP,Organic
+67,Amit,Verma,Female,35,Hyderabad,India,2024-03-11,New,Facebook
+68,Sneha,Verma,Female,59,Mumbai,India,2024-10-08,New,Referral
+69,Pooja,Verma,Female,60,Hyderabad,India,2024-02-07,VIP,Referral
+70,Rahul,Jain,Male,41,Hyderabad,India,2024-01-19,Returning,Organic
+71,Divya,Sharma,Male,29,Bangalore,India,2025-04-26,New,Referral
+72,Rahul,Reddy,Female,40,Bangalore,India,2024-12-14,Returning,Instagram
+73,Karan,Reddy,Male,51,Hyderabad,India,2025-03-28,VIP,Organic
+74,Sneha,Verma,Female,41,Pune,India,2024-09-09,VIP,Facebook
+75,Rahul,Sharma,Male,32,Bangalore,India,2024-03-10,New,Organic
+76,Priya,Nair,Female,23,Hyderabad,India,2024-11-28,VIP,Referral
+77,Ankit,Gupta,Female,30,Mumbai,India,2024-08-19,New,Instagram
+78,Rohit,Kumar,Female,37,Delhi,India,2024-02-21,VIP,Instagram
+79,Divya,Gupta,Female,59,Hyderabad,India,2024-06-11,Returning,Referral
+80,Divya,Nair,Male,47,Delhi,India,2024-11-07,Returning,Google Ads
+81,Rohit,Sharma,Male,25,Bangalore,India,2025-01-20,New,Referral
+82,Divya,Gupta,Female,21,Delhi,India,2024-10-03,VIP,Facebook
+83,Karan,Verma,Female,46,Delhi,India,2024-03-19,VIP,Instagram
+84,Divya,Verma,Female,42,Mumbai,India,2024-01-03,Returning,Instagram
+85,Pooja,Sharma,Male,22,Mumbai,India,2024-01-25,VIP,Organic
+86,Ankit,Sharma,Female,33,Mumbai,India,2024-07-19,Returning,Google Ads
+87,Divya,Gupta,Female,23,Pune,India,2024-04-16,Returning,Facebook
+88,Neha,Verma,Female,60,Bangalore,India,2024-02-07,Returning,Instagram
+89,Neha,Reddy,Male,27,Bangalore,India,2024-03-21,Returning,Facebook
+90,Sneha,Das,Male,30,Hyderabad,India,2024-03-12,Returning,Google Ads
+91,Divya,Singh,Male,51,Delhi,India,2024-04-10,VIP,Instagram
+92,Neha,Verma,Female,46,Mumbai,India,2024-06-03,Returning,Instagram
+93,Karan,Verma,Female,43,Mumbai,India,2024-05-24,Returning,Referral
+94,Priya,Verma,Male,32,Hyderabad,India,2025-03-21,Returning,Organic
+95,Divya,Gupta,Male,43,Pune,India,2024-11-02,Returning,Google Ads
+96,Divya,Gupta,Male,53,Bangalore,India,2024-06-23,Returning,Organic
+97,Sneha,Das,Female,37,Pune,India,2024-10-09,Returning,Organic
+98,Amit,Singh,Male,40,Hyderabad,India,2024-06-22,VIP,Referral
+99,Pooja,Nair,Male,53,Hyderabad,India,2024-03-14,New,Facebook
+100,Pooja,Nair,Female,25,Delhi,India,2024-07-19,VIP,Organic

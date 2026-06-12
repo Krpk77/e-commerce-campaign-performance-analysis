@@ -1,0 +1,6 @@
+campaign_id,campaign_name,campaign_type,start_date,end_date,budget,target_audience_segment,channel,status
+1,Campaign_1,Retargeting,2025-01-21,2025-02-21,154593.07,VIP,Email,Active
+2,Campaign_2,Awareness,2025-02-10,2025-03-13,221020.45,VIP,Facebook,Active
+3,Campaign_3,Discount,2025-03-02,2025-04-02,212436.53,New,Instagram,Active
+4,Campaign_4,Discount,2025-03-22,2025-04-22,67158.68,VIP,Instagram,Completed
+5,Campaign_5,Discount,2025-04-11,2025-05-12,177801.63,Returning,Google Ads,Completed
